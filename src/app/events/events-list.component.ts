@@ -4,7 +4,6 @@ import { EventService } from "./shared/events.service"
 //declare let  toastr: any
 
 @Component({
-    selector: 'events-list',
     template:`
     <div>
         <h1 class="container">New Angular Events</h1>
